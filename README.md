@@ -4,7 +4,7 @@ Developed using:
 2) AWS Quicksight to perform Analytics.
 The student attendance is marked by Face Recognition. Using AWS Analytics attendance was analyzed, images were recognized and detected using “haar-cascade” classifier.
 ## Pictorial Representation 
-<img width="875" alt="Screenshot 2020-06-12 at 7 01 46 PM" src="https://user-images.githubusercontent.com/54894091/84508168-88bd1900-acdf-11ea-9ff5-5e2b56df2d3c.png">
+<img width="450" alt="Screenshot 2020-06-12 at 7 01 46 PM" src="https://user-images.githubusercontent.com/54894091/84508168-88bd1900-acdf-11ea-9ff5-5e2b56df2d3c.png">
 ## Project Cost
 <img width="1145" alt="Screenshot 2020-06-12 at 7 01 53 PM" src="https://user-images.githubusercontent.com/54894091/84508175-8d81cd00-acdf-11ea-8a34-9cebd9e3e82f.png">
 ##
