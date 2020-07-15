@@ -1,4 +1,4 @@
-# IoT_Attendance_System
+# IoT-Attendance-System
 Developed using:
 1) Raspberry Pi Model 3B+ & Pi-Camera
 2) AWS Quicksight to perform Analytics.
